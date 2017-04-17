@@ -1,4 +1,8 @@
+
+
 var getArea = require('./shapesarea.js');
+
+
 
 try {
   var t = getArea('Triangle',  { width: 100, height: 100 });
@@ -7,7 +11,7 @@ try {
   console.log(s);
   var r = getArea('Rectangle', { width: 100, height: 100 });
   console.log(r);
-  var b = getArea('Bogus');
+  //var b = getArea('Bogus');
 }
 catch (e) {
   console.log(e);
