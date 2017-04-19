@@ -1,4 +1,6 @@
 ## Evaluar Strategy Pattern
+## Verificar Practica 
+  [![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/evaluar-strategy-pattern-alu0100813272.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/evaluar-strategy-pattern-alu0100813272)
 
 ### Aceptar Tarea
 
