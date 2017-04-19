@@ -4,8 +4,8 @@
 class Shape{
     
     constructor(options){
-          Object.assign(this, options);
-          console.log(this);
+        Object.assign(this, options);
+        console.log(this);
     }
     
     getArea(){
